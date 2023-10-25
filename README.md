@@ -1,10 +1,10 @@
 # Description
 An exercise inspired by the concepts taught by Dr. John Williams in the MITxPRO MERN course. It involves creating a Pac-Men character that can navigate around the screen.
 
-# How to use
+# How to run
 Open html file (index.html) with your browser.
 
-# Future improvements
+# Roadmap of future improvements
 Enhancements to the user interface: When Pac-Men is in motion, the button transforms into a 'Stop' button. Pac-Men can be guided in all four directions using the arrow keys.
 
 # MIT License
